@@ -1,0 +1,132 @@
+body {
+    background-color: aquamarine;
+    margin: 0;
+    text-align: center;
+    height: 100%;
+}
+
+.computer {
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+    position: absolute;
+    top: 10px;
+    right: 680px;
+}
+
+h1 {
+    margin-top: 0;
+    width: 10%;
+    margin: 0 auto 0 auto;
+    position: relative;
+    text-align: center;
+    top: 250px;
+    font-family: 'sacramento', cursive;
+    color: rgb(197, 175, 50);
+    display: inline;
+    font-size: 50px;
+}
+
+.code {
+    height: 20%;
+    width: 20%;
+
+}
+
+
+.skills {
+    color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+#programmer {
+    position: relative;
+    text-align: center;
+    top: 260px;
+    font-family: 'Lobster', cursive;
+    color: rgb(195, 172, 46);
+
+}
+
+.top-container {
+
+    padding: 20px;
+    border: 10px;
+    position: relative;
+}
+
+.boy {
+    height: 25%;
+    width: 25%;
+    position: relative;
+    /*display: inline-block;*/
+    top: 300px;
+    border-radius: 10px;
+
+
+}
+
+.boyhr {
+    position: relative;
+    top: 340px;
+}
+
+.lamp {
+    height: 30%;
+    width: 20%;
+    position: absolute;
+    left: 30px;
+    top: 250px;
+    border-radius: 10px;
+
+}
+
+.lamp2 {
+    height: 30%;
+    width: 20%;
+    position: absolute;
+    right: 30px;
+    top: 250px;
+    border-radius: 10px;
+    transform: scaleX(-1);
+}
+
+
+
+.middle-container {
+    position: relative;
+    top: 400px;
+    color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.bottom-container {
+    position: relative;
+    top: 500px;
+    background-color: rgb(46, 37, 37);
+    height: 100px;
+    color: azure;
+}
+
+.bottom-container a {
+    color: azure;
+}
+
+
+
+.gmail {
+    height: 40px;
+    width: 40px;
+}
+
+.gmail:hover {
+    height: 5%;
+    width: 5%;
+}
+
+.guitar {
+    height: 20%;
+    width: 20%;
+}
